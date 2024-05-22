@@ -1,1 +1,1 @@
-module.exports = "Hit there";
+export default "Hit there";
